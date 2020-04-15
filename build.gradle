@@ -1,0 +1,21 @@
+plugins {
+    id 'application'
+}
+
+group 'com.devinrsmith'
+version '0.0.1'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClassName = 'com.devinrsmith.IJManifestIssueMain'
+}
+
+dependencies {
+    compile 'org.jooq:joor-java-8:0.9.12'
+}

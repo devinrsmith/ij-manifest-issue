@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: file:/Users/devin/dev/tmp/ij-manifest-issue/build/classes/ja
+ va/main/ file:/Users/devin/dev/tmp/ij-manifest-issue/build/resources/ma
+ in file:/Users/devin/.gradle/caches/modules-2/files-2.1/org.jooq/joor-j
+ ava-8/0.9.12/2deb75faba939923826234d2be8f535461f58641/joor-java-8-0.9.1
+ 2.jar
+
